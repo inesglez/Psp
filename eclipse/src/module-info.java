@@ -4,5 +4,5 @@
 /**
  * 
  */
-module psp {
+module eclipse {
 }
