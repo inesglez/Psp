@@ -15,10 +15,10 @@ public class SumaNumeros {
         while (!scanner.hasNextDouble()) { 
             System.out.println("Por favor, introduce un número válido.");
         }
-        numero1 = scanner.nextDouble(); //guarda el numero
+        numero1 = scanner.nextDouble(); //guarda el número
         
-      //El !scanner.hasNextDouble() anterior indica que si lo introducido por 
-      //pantalla es diferente a Double quiere decir que no ha introducido un num
+	/* El !scanner.hasNextDouble() anterior indica que si lo introducido por
+	 pantalla es diferente a Double quiere decir que no ha introducido un num */
 
         // Validación para el segundo número
         System.out.print("Introduce el segundo número: ");
