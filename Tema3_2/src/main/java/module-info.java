@@ -1,4 +1,4 @@
-module com.example.tema3 {
+module com.example.tema3_2 {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -10,7 +10,8 @@ module com.example.tema3 {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.desktop;
 
-    opens com.example.tema3 to javafx.fxml;
-    exports com.example.tema3;
+    opens com.example.tema3_2 to javafx.fxml;
+    exports com.example.tema3_2;
 }
