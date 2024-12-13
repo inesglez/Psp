@@ -1,8 +1,6 @@
 package com.example.tema3_2.Actividad3_7;
 
 public class Numeros {
-
-    // Atributos
     int numero;
     long cuadrado;
     long cubo;
@@ -27,7 +25,6 @@ public class Numeros {
         return cubo;
     }
 
-    // Métodos para mostrar los valores
     public void mostrarValores() {
         System.out.println("Número: " + numero);
         System.out.println("Cuadrado: " + cuadrado);
