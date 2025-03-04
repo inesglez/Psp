@@ -3,7 +3,11 @@ package actividad1;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+<<<<<<< HEAD
 public class MD5Hasher {
+=======
+public class MD5 {
+>>>>>>> 444a3dd9ac82ce51985fadaae17bd687d3663045
 
     public static void main(String[] args) {
 

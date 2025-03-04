@@ -5,7 +5,11 @@ import java.security.NoSuchAlgorithmException;
 import java.security.Provider;
 import java.util.Scanner;
 
+<<<<<<< HEAD
 public class SHA256Hasher {
+=======
+public class SHA_256 {
+>>>>>>> 444a3dd9ac82ce51985fadaae17bd687d3663045
 
     public static void main(String[] args) {
 
